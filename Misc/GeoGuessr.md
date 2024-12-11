@@ -28,4 +28,4 @@ Keep 3 digits, and input the flag :
 
 If you look at most of the challenges I've made, they're very cyberpunk themed, the description of the challenge hints that I'm talking about the founder of Night City, which is a fictional city that was built on top of Morro Rock Beach. Richard Night was a very important businessman who was murdered in his penthouse suite, in this timeline I created, he dies before he gets to build Night City :
 
-![alt text](../images/image.png) ![alt text](../Images/image1.png)
+![alt text](../Images/image.png) ![alt text](../Images/image1.png)
